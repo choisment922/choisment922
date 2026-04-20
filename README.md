@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요. 저는 현재 한국에너지공과대학교에서 Energy AI를 공부하고 있습니다. 주로 데이터 분석에 관심을 두고 공부하고 있습니다.</li><br/></li><br/></li>Hello. I'm a college student of Korea Institue of Energey Technology. Recently, i'm studying Energy AI and data analysis. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요. 저는 현재 한국에너지공과대학교에서 Energy AI를 공부하고 있습니다. 주로 데이터 분석에 관심을 두고 공부하고 있습니다.</li><br/></li><br/></li>Hello. I'm a college student of Korea Institue of Energey Technology. I'm recently studying Energy AI and data analysis. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
