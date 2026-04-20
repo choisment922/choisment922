@@ -22,7 +22,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Award </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2025 International Science and Engineering Fair Wolfram & Midjourny Specail Award</li><br/></li><br/></li>2025 STEAM CLUB 최우수상 (교육부 장관상)</li><br/></li><br/></li>2024 SW동행 해커톤 대상 (과학기술정보통신부 장관상)</li><br/></li><br/></li>2024 Youth Entrepreneurship Experience Program 우수상</li><br/></li><br/></li>2023 Youth Entrepreneurship Experience Program 우수상</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2025 International Science and Engineering Fair Wolfram & Midjourny Specail Award<br/>2025 STEAM CLUB 최우수상 (교육부 장관상)<br/>2024 SW동행 해커톤 대상 (과학기술정보통신부 장관상)<br/>2024 Youth Entrepreneurship Experience Program 우수상<br/>2023 Youth Entrepreneurship Experience Program 우수상</div> 
     </div>
     <div style="text-align: left;">
     <div style="text-align: left;">
