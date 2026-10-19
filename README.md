@@ -31,6 +31,5 @@
          <a href=https://choisment922.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://choisment922.tistory.com/"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    <iframe src="https://choisment922.github.io/portfolio/" width="100%" height="500px" frameborder="0"></iframe>
     </div>
     
